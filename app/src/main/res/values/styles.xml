@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ViewForm">
+        <item name="android:background">@drawable/view_form</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="EditForm">
+        <item name="android:layout_marginTop">9dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:padding">15dp</item>
+        <item name="maxLines">1</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_form</item>
+    </style>
+
+    <style name="ButtonForm">
+        <item name="android:layout_marginTop">7dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/btn_login</item>
+        <item name="backgroundTint">#894541</item>
+    </style>
+
+</resources>
